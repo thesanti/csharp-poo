@@ -6,7 +6,9 @@ namespace ConjugeBank
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            ContaCorrente conta = new ContaCorrente();
+
+            Console.ReadLine();
         }
     }
 }
